@@ -1,9 +1,9 @@
 // Variable declaration
 const int button = 2;
 int buttonState = 0; // Can be 0 or LOW
-int red = 12;
-int blue =11;
-int green = 10;
+int red = 13;
+int green =12;
+int blue = 11;
 
 void setup() {
   // Input
