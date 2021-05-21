@@ -18,6 +18,7 @@ void setup() {
   Wire.begin(); //  Initialise i2c
   Wire.beginTransmission(0x27);
   lcd.begin(16, 2); // initialize the lcd
+  Serial.print("Start");
 }
 
 void loop() {
