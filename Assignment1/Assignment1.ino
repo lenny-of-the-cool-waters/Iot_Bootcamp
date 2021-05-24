@@ -70,9 +70,9 @@ void loop()
     lcd.clear();
     lcd.setBacklight(255);
     lcd.setCursor(0,0);
-    lcd.print("Booster");
+    lcd.print("Project 1");
     lcd.setCursor(7,1);
-    lcd.print("By Couch");
+    lcd.print("By Lenny");
   } else {
     lcd.clear();
     lcd.setBacklight(255);
