@@ -27,3 +27,11 @@ LESSON 3
 
     Concepts covered:
     LCD, Serial monitor, Importing libraries
+
+LESSON 4
+
+    Circuit: 
+    => GY521 with SDA to A4, SCL to A5
+
+    Concepts covered:
+    Communication protocols (Intraboard/Interboard)
